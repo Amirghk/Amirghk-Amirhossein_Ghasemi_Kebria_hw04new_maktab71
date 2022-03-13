@@ -1,0 +1,17 @@
+G:\MAKTAB\HomeWork4\HW\HW\bin\Debug\net6.0\HW.exe
+G:\MAKTAB\HomeWork4\HW\HW\bin\Debug\net6.0\HW.deps.json
+G:\MAKTAB\HomeWork4\HW\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+G:\MAKTAB\HomeWork4\HW\HW\bin\Debug\net6.0\HW.dll
+G:\MAKTAB\HomeWork4\HW\HW\bin\Debug\net6.0\HW.pdb
+G:\MAKTAB\HomeWork4\HW\HW\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.csproj.CopyComplete
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.dll
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\refint\HW.dll
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.pdb
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+G:\MAKTAB\HomeWork4\HW\HW\obj\Debug\net6.0\ref\HW.dll
